@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [your-email@example.com](mailto:utkarshjais8957@gmail.com).
+If you have any questions or suggestions, please feel free to contact us at [utkarshjais8957@gmail.com](mailto:utkarshjais8957@gmail.com).
 
 Happy task managing! 📝🚀
