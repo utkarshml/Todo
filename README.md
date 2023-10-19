@@ -1,20 +1,58 @@
+# To-Do Web App
 
-<p align="center"> <a href="https://github.com/utkarshml/Todo"> <img src="images/logo.png" alt="Logo" width="80" height="80"> </a> <h3 align="center">Todo</h3> <p align="center"> A modern and responsive todo application built with Flask and Bootstrap <br /> <a href="https://github.com/utkarshml/Todo/issues">Report Bug</a> · <a href="https://github.com/utkarshml/Todo/issues">Request Feature</a> </p> </p>
-About The Project
-<p align="center"> <a href="https://github.com/utkarshml/Todo"> <img src="images/screenshot.png" alt="Logo" width="100%" height="auto"> </a> </p>
-Todo is a web application built using Flask and Bootstrap that allows users to create, update, and delete todo tasks. It is a single-page application with responsive design, ensuring a great user experience on all devices.
+This is a simple To-Do web application created using HTML, CSS, and the Bootstrap CSS framework. It allows you to keep track of your tasks and manage your daily activities efficiently.
 
-Here's why you should use Todo:
+<a href="https://github.com/utkarshml/Todo/issues">Report Bug</a> · <a href="https://github.com/utkarshml/Todo/issues">Request Feature</a> </p> </p>
 
-Built with modern frameworks: Todo uses Flask, a popular and powerful Python web framework, and Bootstrap, a widely used front-end library for building responsive and mobile-first websites.
+## Features
 
-Easy-to-use interface: Todo offers a simple and intuitive interface for managing your tasks.
+- Add tasks to your to-do list.
+- Mark tasks as complete.
+- Delete tasks you no longer need.
+- Clear all completed tasks at once.
+- User-friendly and responsive design.
 
-Fully responsive: Todo is designed to be responsive, ensuring that it looks and functions well on all devices, including desktop, tablet, and mobile.
+## Getting Started
 
-User-friendly features: Todo offers features such as task creation, marking tasks as complete, and deleting tasks. You can also update tasks and reorder them using drag and drop.
+To get started with this To-Do web app, you can simply clone this repository to your local machine. You don't need to install any additional dependencies. Follow these steps:
 
-Open-source: Todo is open-source, which means you can use it for free, and you can also contribute to its development.
+1. **Clone the repository:**
 
-Getting Started
-To get a local copy up and running follow these simple steps.
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   ```
+
+2. **Navigate to the project folder:**
+
+   ```bash
+   cd todo-app
+   ```
+
+3. **Open `index.html` in your browser:**
+
+   Simply open the `index.html` file in your preferred web browser to start using the To-Do app.
+
+## Usage
+
+- To add a new task, type the task description in the input field and press the 'Add' button or hit 'Enter' on your keyboard.
+- To mark a task as complete, click on the checkbox next to the task.
+- To delete a task, click the trash can icon next to the task.
+- To clear all completed tasks at once, click the 'Clear Completed' button at the bottom of the list.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to create a pull request. We welcome any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project was created with the help of [Bootstrap](https://getbootstrap.com/) for styling and responsiveness.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+
+Happy task managing! 📝🚀
